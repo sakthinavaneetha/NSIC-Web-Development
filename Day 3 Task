@@ -1,3 +1,70 @@
+Challenge 1:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bug 01</title>
+</head>
+<body>
+    <header>
+        <h1>Header</h1>
+    </header>
+    <p>Content with <span style="color: red; font-weight: bold;">style issues.</span></p>
+    <footer>Footer content</footer>
+</body>
+</html>
+
+
+Chanllenge 2:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bug 02</title>
+</head>
+<body>
+    <h1>Image Example</h1>
+    <figure>
+        <img src="correctpath/image.jpg">
+        <figcaption>Image description</figcaption>
+    </figure>
+</body>
+</html>
+
+Challenge 3:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bug 03</title>
+</head>
+<body>
+    <h1>Navigation</h1>
+    <nav>
+        <a href="#">Link without href</a>
+        <ul>
+            <li><a href="page.html">Page</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
+
+challenge 4:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bug 04</title>
+</head>
+<body>
+    <h1>Deprecated Tags</h1>
+    <p style="color: blue;">This text is blue.</p>
+    <form action="submit.html" method="get">
+        Name: <input type="text" name="name">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
+
+
 <!DOCTYPE html>
 <html>
 <head>
